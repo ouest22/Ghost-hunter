@@ -1,0 +1,13 @@
+{
+  "name": "Ghost Blaster 8-bit",
+  "short_name": "GhostBlaster",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "description": "Un jeu 8-bit de chasse aux fantômes façon Space Invaders",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
